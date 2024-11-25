@@ -35,7 +35,7 @@ python3 directedgnn.py --dataset polblogs
 ```bash
 python3 Magnet.py --dataset cora
 python3 Magnet.py --dataset citeseer 
-#python3 Magnet.py --dataset cora_ml
+python3 Magnet.py --dataset cora_ml
 python3 Magnet.py --dataset polblogs
 ```
 
